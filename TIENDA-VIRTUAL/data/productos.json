@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "nombre": "Bolsa camiseta chica (x100)",
+    "descripcion": "Bolsas de nylon con asa tipo camiseta, tamaño chico. Ideales para mandados rápidos.",
+    "precio": 12,
+    "categoria": "Compras",
+    "stock": 80,
+    "imagen": "img/producto1.svg",
+    "destacado": true
+  },
+  {
+    "id": 2,
+    "nombre": "Bolsa camiseta mediana (x100)",
+    "descripcion": "Tamaño mediano, resistente para frutas, verduras y abarrotes.",
+    "precio": 18,
+    "categoria": "Compras",
+    "stock": 60,
+    "imagen": "img/producto2.svg",
+    "destacado": false
+  },
+  {
+    "id": 3,
+    "nombre": "Bolsa camiseta grande (x100)",
+    "descripcion": "Tamaño grande con asas reforzadas para el mercado de la semana.",
+    "precio": 25,
+    "categoria": "Compras",
+    "stock": 45,
+    "imagen": "img/producto3.svg",
+    "destacado": true
+  },
+  {
+    "id": 4,
+    "nombre": "Bolsa asa troquelada (x50)",
+    "descripcion": "Asa recortada, superficie lisa y buena presentación para tiendas.",
+    "precio": 15,
+    "categoria": "Compras",
+    "stock": 3,
+    "imagen": "img/producto4.svg",
+    "destacado": false
+  },
+  {
+    "id": 5,
+    "nombre": "Bolsa de regalo mini (x20)",
+    "descripcion": "Pequeñas y coloridas, perfectas para dulces y detalles.",
+    "precio": 10,
+    "categoria": "Regalos",
+    "stock": 40,
+    "imagen": "img/producto5.svg",
+    "destacado": false
+  },
+  {
+    "id": 6,
+    "nombre": "Bolsa de regalo con lazo (x20)",
+    "descripcion": "Incluye lazo decorativo. Para cumpleaños y fechas especiales.",
+    "precio": 14,
+    "categoria": "Regalos",
+    "stock": 25,
+    "imagen": "img/producto6.svg",
+    "destacado": true
+  },
+  {
+    "id": 7,
+    "nombre": "Bolsa de regalo grande (x10)",
+    "descripcion": "Espacio para ropa o juguetes, con cierre de cinta.",
+    "precio": 20,
+    "categoria": "Regalos",
+    "stock": 0,
+    "imagen": "img/producto7.svg",
+    "destacado": false
+  },
+  {
+    "id": 8,
+    "nombre": "Rollo bolsas de basura 30 L (x30)",
+    "descripcion": "Rollo con 30 bolsas negras para el tacho de cocina o baño.",
+    "precio": 16,
+    "categoria": "Basura",
+    "stock": 70,
+    "imagen": "img/producto8.svg",
+    "destacado": false
+  },
+  {
+    "id": 9,
+    "nombre": "Rollo bolsas de basura 60 L (x20)",
+    "descripcion": "Bolsas resistentes a roturas para tachos grandes.",
+    "precio": 22,
+    "categoria": "Basura",
+    "stock": 4,
+    "imagen": "img/producto9.svg",
+    "destacado": false
+  },
+  {
+    "id": 10,
+    "nombre": "Bolsas de jardín 100 L (x10)",
+    "descripcion": "Extra grandes, para hojas, escombros y limpieza general.",
+    "precio": 28,
+    "categoria": "Basura",
+    "stock": 35,
+    "imagen": "img/producto10.svg",
+    "destacado": true
+  },
+  {
+    "id": 11,
+    "nombre": "Bolsas con cierre zip (x50)",
+    "descripcion": "Cierre hermético para guardar alimentos y mantenerlos frescos.",
+    "precio": 20,
+    "categoria": "Alimentos",
+    "stock": 50,
+    "imagen": "img/producto11.svg",
+    "destacado": false
+  },
+  {
+    "id": 12,
+    "nombre": "Bolsas para hielo (x100)",
+    "descripcion": "Nylon transparente apto para alimentos, ideal para hielo y congelados.",
+    "precio": 14,
+    "categoria": "Alimentos",
+    "stock": 5,
+    "imagen": "img/producto12.svg",
+    "destacado": false
+  },
+  {
+    "id": 13,
+    "nombre": "Bolsas para pan (x100)",
+    "descripcion": "Bolsas transparentes de bajo peso para panaderías.",
+    "precio": 17,
+    "categoria": "Alimentos",
+    "stock": 0,
+    "imagen": "img/producto13.svg",
+    "destacado": false
+  },
+  {
+    "id": 14,
+    "nombre": "Bolsa courier con adhesivo (x50)",
+    "descripcion": "Sobre de envío opaco con cinta adhesiva y sello de seguridad.",
+    "precio": 30,
+    "categoria": "Envíos",
+    "stock": 22,
+    "imagen": "img/producto14.svg",
+    "destacado": false
+  },
+  {
+    "id": 15,
+    "nombre": "Bolsa burbuja protectora (x20)",
+    "descripcion": "Protege objetos frágiles durante el transporte.",
+    "precio": 24,
+    "categoria": "Envíos",
+    "stock": 55,
+    "imagen": "img/producto15.svg",
+    "destacado": true
+  }
+]

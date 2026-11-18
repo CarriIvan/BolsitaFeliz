@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="es"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Dashboard | Bolsita Feliz</title><meta name="description" content="Bolsita Feliz: bolsas de nylon para compras, regalos, basura, alimentos y envíos en Oruro.">
+<link rel="icon" href="img/logo.svg"><link rel="stylesheet" href="css/estilos.css"></head>
+<body><div id="cab"></div><main>
+<section class="wrap"><h1>Dashboard</h1><p>Actualizado el <b id="fecha">…</b></p>
+<div id="kpis" class="kpis"></div>
+<div class="dos"><div class="caja"><h2>Productos por categoría</h2><div id="g-cat"></div></div>
+<div class="caja"><h2>Distribución de stock</h2><div class="donut" id="donut" role="img" aria-label="Gráfico de distribución de stock"></div><ul class="ley" id="ley"></ul></div></div>
+<div class="caja" style="margin-top:1.4rem"><h2>Productos con bajo inventario</h2><div class="tw"><table><thead><tr><th>Producto</th><th>Categoría</th><th>Stock</th><th>Estado</th></tr></thead><tbody id="tabla"></tbody></table></div></div></section></main><div id="pie"></div><script src="js/app.js"></script><script src="js/dashboard.js"></script></body></html>
